@@ -19,8 +19,8 @@ NextJS Client for Book Management
 ## Unit Testing
 - Server must be running up in advanced.
 - Run tests e2e in cypress:  `npx cypress open`.
-- Choice option: `E2E Testing`.
-- Choice a web browser for testing.
+- Choose option: `E2E Testing`.
+- Choose a web browser for testing.
 - Search the test named `books.cy.js`.
 - Check E2E Testing for Book Management.
 
