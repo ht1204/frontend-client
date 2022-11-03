@@ -8,6 +8,10 @@ NextJS Client for Book Management
 - Install NodeJS
 - Clone this repo through command `git clone https://github.com/ht1204/frontend-client.git`
 - Install dependencies: `npm i` or `npm install`
+- Create file for environment variables named `.env`
+- In `.env` create a variable for backend-api endpoint named `NEXT_PUBLIC_BACKEND_URL` .
+- Check in advanced that Laravel backend server is running with a http client, i.e. Postman
+- Finally, you can run the server with following modes:
 - Run in dev mode: `npm run dev`
 - Run in production mode: `npm run start`
 - Check CRUD Book Managment: [Go to Page](http://localhost:3000/)
