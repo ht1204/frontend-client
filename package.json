@@ -17,5 +17,9 @@
   },
   "devDependencies": {
     "cypress": "^10.11.0"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "~8.11.0"
   }
 }
