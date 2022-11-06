@@ -14,7 +14,7 @@ NextJS Client for Book Management
 - Finally, you can run the server with following modes:
 - Run in dev mode: `npm run dev`
 - Run in production mode: `npm run start`
-- Check CRUD Book Managment: [Go to Page](http://localhost:3000/)
+- Check CRUD Book Management: [Go to Page](http://localhost:3000/)
 
 ## Unit Testing
 - Server must be running up in advanced.
