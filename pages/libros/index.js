@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
     const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/books/`);
     const data = await response.json();
     

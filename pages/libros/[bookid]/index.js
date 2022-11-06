@@ -22,7 +22,7 @@ export async function getStaticPaths() {
                 bookid: String(book.id)
             }
         })),
-        fallback: 'blocking'
+        fallback: false
     }
 }
 
